@@ -3,7 +3,7 @@ const MenuItem = ({ item }) => {
   return (
     <div className="flex space-x-4">
       <img
-        className="w-[80px] rounded-e-full rounded-bl-full"
+        className="w-[80px] h-[80px] rounded-e-full rounded-bl-full"
         src={image}
         alt=""
       />
